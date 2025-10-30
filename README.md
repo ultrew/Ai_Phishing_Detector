@@ -1,4 +1,4 @@
-# AI Phishing Detector - Complete Project Guide
+# AI Phishing Detector
 
 ## Introduction
 
