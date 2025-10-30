@@ -12,6 +12,8 @@ I created an **AI Phishing Detector** system as part of `Innovation Phase at Bro
 
 ## 📹 Demo Video
 
+**Click on image**
+
 [![Watch the video](demo/img.jpg)](demo/main.mp4)
 
 ---
