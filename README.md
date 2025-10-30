@@ -10,6 +10,15 @@ I created an **AI Phishing Detector** system as part of `Innovation Phase at Bro
 
 ---
 
+## 📹 Demo Video
+
+<video width="640" height="480" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## Project Overview
 
 ### Architecture
