@@ -12,7 +12,7 @@ I created an **AI Phishing Detector** system as part of `Innovation Phase at Bro
 
 ## 📹 Demo Video
 
-(LinkedIn Demo)[https://www.linkedin.com/posts/tanishq-nama-8b3bb5214_ai-machinelearning-deeplearning-activity-7389962893167034368-BDVJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZIZccBwr82GjkwNmYeVjWTpxihg6r123Q]
+[LinkedIn Demo](https://www.linkedin.com/posts/tanishq-nama-8b3bb5214_ai-machinelearning-deeplearning-activity-7389962893167034368-BDVJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZIZccBwr82GjkwNmYeVjWTpxihg6r123Q)
 
 **Click on image**
 
